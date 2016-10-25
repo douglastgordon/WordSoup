@@ -74,5 +74,5 @@ class Author
 
 end
 
-$shake = Author.new('hamlet.txt')
-$hem = Author.new('omats.txt')
+$Shakespeare = Author.new('hamlet.txt')
+$Hemingway = Author.new('omats.txt')
