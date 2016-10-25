@@ -14,7 +14,7 @@ He.
 
 You come most carefully upon your hour.
 
-'Tis now struck twelve; get thee to bed, .
+'Tis now struck twelve; get thee to bed,
 
 For this relief much thanks: 'tis bitter cold,
 And I am sick at heart.
@@ -24,11 +24,11 @@ Have you had quiet guard?
 Not a mouse stirring.
 
 Well, good night.
-If you do meet  and ,
+If you do meet and ,
 The rivals of my watch, bid them make haste.
 
 I think I hear them. Stand, ho! Who's there?
-Enter  and
+Enter and
 
 
 Friends to this ground.
@@ -48,11 +48,11 @@ Exit
 Holla! !
 
 Say,
-What, is  there?
+What, is there?
 
 A piece of him.
 
-Welcome, : welcome, good .
+Welcome, welcome, good
 
 What, has this thing appear'd again to-night?
 
@@ -74,12 +74,12 @@ That are so fortified against our story
 What we have two nights seen.
 
 Well, sit we down,
-And let us hear  speak of this.
+And let us hear speak of this.
 
 Last night of all,
 When yond same star that's westward from the pole
 Had made his course to illume that part of heaven
-Where now it burns,  and myself,
+Where now it burns, and myself,
 The bell then beating one,--
 Enter
 
@@ -88,15 +88,15 @@ Peace, break thee off; look, where it comes again!
 
 In the same figure, like the king that's dead.
 
-Thou art a scholar; speak to it, .
+Thou art a scholar; speak to it,
 
-Looks it not like the king? mark it, .
+Looks it not like the king? mark it,
 
 Most like: it harrows me with fear and wonder.
 
 It would be spoke to.
 
-Question it, .
+Question it,
 
 What art thou that usurp'st this time of night,
 Together with that fair and warlike form
@@ -113,7 +113,7 @@ Exit
 
 'Tis gone, and will not answer.
 
-How now, ! you tremble and look pale:
+How now, you tremble and look pale:
 Is not this something more than fantasy?
 What think you on't?
 
@@ -151,11 +151,11 @@ Who is't that can inform me?
 That can I;
 At least, the whisper goes so. Our last king,
 Whose image even but now appear'd to us,
-Was, as you know, by  of Norway,
+Was, as you know, by of Norway,
 Thereto prick'd on by a most emulate pride,
 Dared to the combat; in which our valiant --
 For so this side of our known world esteem'd him--
-Did slay this ; who by a seal'd compact,
+Did slay this who by a seal'd compact,
 Well ratified by law and heraldry,
 Did forfeit, with his life, all those his lands
 Which he stood seized of, to the conqueror:
@@ -164,7 +164,7 @@ Was gaged by our king; which had return'd
 To the inheritance of ,
 Had he been vanquisher; as, by the same covenant,
 And carriage of the article design'd,
-His fell to . Now, sir, young ,
+His fell to Now, sir, young ,
 Of unimproved mettle hot and full,
 Hath in the skirts of Norway here and there
 Shark'd up a list of lawless resolutes,
@@ -213,7 +213,7 @@ Which, happily, foreknowing may avoid, O, speak!
 Or if thou hast uphoarded in thy life
 Extorted treasure in the womb of earth,
 For which, they say, you spirits oft walk in death,
-Speak of it: stay, and speak! Stop it, .
+Speak of it: stay, and speak! Stop it,
 
 Shall I strike at it with my partisan?
 
@@ -257,7 +257,7 @@ But, look, the morn, in russet mantle clad,
 Walks o'er the dew of yon high eastward hill:
 Break we our watch up; and by my advice,
 Let us impart what we have seen to-night
-Unto young ; for, upon my life,
+Unto young for, upon my life,
 This spirit, dumb to us, will speak to him.
 Do you consent we shall acquaint him with it,
 As needful in our loves, fitting our duty?
@@ -270,7 +270,7 @@ SCENE II. A room of state in the castle.
 
 Enter Lords, and Attendants
 
-Though yet of  our dear brother's death
+Though yet of our dear brother's death
 The memory be green, and that it us befitted
 To bear our hearts in grief and our whole kingdom
 To be contracted in one brow of woe,
@@ -313,7 +313,7 @@ Farewell, and let your haste commend your duty.
 In that and all things will we show our duty.
 
 We doubt it nothing: heartily farewell.
-Exeunt  and
+Exeunt and
 
 And now, what's the news with you?
 You told us of some suit; what is't, ?
@@ -340,11 +340,11 @@ By laboursome petition, and at last
 Upon his will I seal'd my hard consent:
 I do beseech you, give him leave to go.
 
-Take thy fair hour, ; time be thine,
+Take thy fair hour, time be thine,
 And thy best graces spend it at thy will!
 But now, my cousin and my son,--
 
-[Aside] A little more than kin, and less than kind.
+ Aside  A little more than kin, and less than kind.
 
 How is it that the clouds still hang on you?
 
@@ -464,7 +464,7 @@ I am glad to see you well:
 The same, my lord, and your poor servant ever.
 
 Sir, my good friend; I'll change that name with you:
-And what make you from Wittenberg, ? ?
+And what make you from Wittenberg, ?
 
 My good lord--
 
@@ -487,7 +487,7 @@ I think it was to see my mother's wedding.
 
 Indeed, my lord, it follow'd hard upon.
 
-Thrift, thrift, ! the funeral baked meats
+Thrift, thrift, the funeral baked meats
 Did coldly furnish forth the marriage tables.
 Would I had met my dearest foe in heaven
 Or ever I had seen that day, !
@@ -495,7 +495,7 @@ My father!--methinks I see my father.
 
 Where, my lord?
 
-In my mind's eye, .
+In my mind's eye,
 
 I saw him once; he was a goodly king.
 
@@ -628,23 +628,23 @@ Till then sit still, my soul: foul deeds will rise,
 Though all the earth o'erwhelm them, to men's eyes.
 Exit
 
-SCENE III. A room in ' house.
+SCENE III. A room in house.
 
-Enter  and OPHELIA
+Enter and
 
 My necessaries are embark'd: farewell:
 And, sister, as the winds give benefit
 And convoy is assistant, do not sleep,
 But let me hear from you.
-OPHELIA
+
 Do you doubt that?
 
-For  and the trifling of his favour,
+For and the trifling of his favour,
 Hold it a fashion and a toy in blood,
 A violet in the youth of primy nature,
 Forward, not permanent, sweet, not lasting,
 The perfume and suppliance of a minute; No more.
-OPHELIA
+
 No more but so?
 
 Think it no more;
@@ -670,7 +670,7 @@ Then weigh what loss your honour may sustain,
 If with too credent ear you list his songs,
 Or lose your heart, or your chaste treasure open
 To his unmaster'd importunity.
-Fear it, Ophelia, fear it, my dear sister,
+Fear it,  , fear it, my dear sister,
 And keep you in the rear of your affection,
 Out of the shot and danger of desire.
 The chariest maid is prodigal enough,
@@ -682,7 +682,7 @@ And in the morn and liquid dew of youth
 Contagious blastments are most imminent.
 Be wary then; best safety lies in fear:
 Youth to itself rebels, though none else near.
-OPHELIA
+
 I shall the effect of this good lesson keep,
 As watchman to my heart. But, good my brother,
 Do not, as some ungracious pastors do,
@@ -698,7 +698,7 @@ Enter
 A double blessing is a double grace,
 Occasion smiles upon a second leave.
 LORD
-Yet here, ! aboard, aboard, for shame!
+Yet here, aboard, aboard, for shame!
 The wind sits in the shoulder of your sail,
 And you are stay'd for. There; my blessing with thee!
 And these few precepts in thy memory
@@ -730,9 +730,9 @@ Most humbly do I take my leave, my lord.
 LORD
 The time invites you; go; your servants tend.
 
-Farewell, Ophelia; and remember well
+Farewell,  and remember well
 What I have said to you.
-OPHELIA
+
 'Tis in my memory lock'd,
 And you yourself shall keep the key of it.
 
@@ -740,9 +740,9 @@ Farewell.
 Exit
 
 LORD
-What is't, Ophelia, be hath said to you?
-OPHELIA
-So please you, something touching the Lord .
+What is't,  , be hath said to you?
+
+So please you, something touching the Lord
 LORD
 Marry, well bethought:
 'Tis told me, he hath very oft of late
@@ -753,14 +753,14 @@ And that in way of caution, I must tell you,
 You do not understand yourself so clearly
 As it behoves my daughter and your honour.
 What is between you? give me up the truth.
-OPHELIA
+
 He hath, my lord, of late made many tenders
 Of his affection to me.
 LORD
 Affection! pooh! you speak like a green girl,
 Unsifted in such perilous circumstance.
 Do you believe his tenders, as you call them?
-OPHELIA
+
 I do not know, my lord, what I should think.
 LORD
 Marry, I'll teach you: think yourself a baby;
@@ -768,12 +768,12 @@ That you have ta'en these tenders for true pay,
 Which are not sterling. Tender yourself more dearly;
 Or--not to crack the wind of the poor phrase,
 Running it thus--you'll tender me a fool.
-OPHELIA
+
 My lord, he hath importuned me with love
 In honourable fashion.
 LORD
 Ay, fashion you may call it; go to, go to.
-OPHELIA
+
 And hath given countenance to his speech, my lord,
 With almost all the holy vows of heaven.
 LORD
@@ -788,7 +788,7 @@ Set your entreatments at a higher rate
 Than a command to parley. For Lord ,
 Believe so much in him, that he is young
 And with a larger tether may he walk
-Than may be given you: in few, Ophelia,
+Than may be given you: in few,  ,
 Do not believe his vows; for they are brokers,
 Not of that dye which their investments show,
 But mere implorators of unholy suits,
@@ -796,9 +796,9 @@ Breathing like sanctified and pious bawds,
 The better to beguile. This is for all:
 I would not, in plain terms, from this time forth,
 Have you so slander any moment leisure,
-As to give words or talk with the Lord .
+As to give words or talk with the Lord
 Look to't, I charge you: come your ways.
-OPHELIA
+
 I shall obey, my lord.
 Exeunt
 
@@ -927,9 +927,9 @@ My fate cries out,
 And makes each petty artery in this body
 As hardy as the Nemean lion's nerve.
 Still am I call'd. Unhand me, gentlemen.
-By heaven, I'll make a  of him that lets me!
+By heaven, I'll make a of him that lets me!
 I say, away! Go on; I'll follow thee.
-Exeunt  and
+Exeunt and
 
 
 He waxes desperate with imagination.
@@ -947,7 +947,7 @@ Exeunt
 
 SCENE V. Another part of the platform.
 
-Enter  and
+Enter and
 
 Where wilt thou lead me? speak; I'll go no further.
 
@@ -1089,18 +1089,18 @@ So, uncle, there you are. Now to my word;
 It is 'Adieu, adieu! remember me.'
 I have sworn 't.
 
-[Within] My lord, my lord,--
+ Within  My lord, my lord,--
 
-[Within]	Lord ,--
+ Within 	Lord ,--
 
-[Within]	Heaven secure him!
+ Within 	Heaven secure him!
 
 So be it!
 
-[Within] Hillo, ho, ho, my lord!
+ Within  Hillo, ho, ho, my lord!
 
 Hillo, ho, ho, boy! come, bird, come.
-Enter  and
+Enter and
 
 
 How is't, my noble lord?
@@ -1170,7 +1170,7 @@ We have sworn, my lord, already.
 
 Indeed, upon my sword, indeed.
 
-[Beneath] Swear.
+ Beneath  Swear.
 
 Ah, ha, boy! say'st thou so? art thou there,
 truepenny?
@@ -1182,7 +1182,7 @@ Propose the oath, my lord.
 Never to speak of this that you have seen,
 Swear by my sword.
 
-[Beneath] Swear.
+ Beneath  Swear.
 
 Hic et ubique? then we'll shift our ground.
 Come hither, gentlemen,
@@ -1190,7 +1190,7 @@ And lay your hands again upon my sword:
 Never to speak of this that you have heard,
 Swear by my sword.
 
-[Beneath] Swear.
+ Beneath  Swear.
 
 Well said, old mole! canst work i' the earth so fast?
 A worthy pioner! Once more remove, good friends.
@@ -1213,14 +1213,14 @@ Or such ambiguous giving out, to note
 That you know aught of me: this not to do,
 So grace and mercy at your most need help you, Swear.
 
-[Beneath] Swear.
+ Beneath  Swear.
 
 Rest, rest, perturbed spirit!
 They swear
 
 So, gentlemen,
 With all my love I do commend me to you:
-And what so poor a man as  is
+And what so poor a man as is
 May do, to express his love and friending to you,
 God willing, shall not lack. Let us go in together;
 And still your fingers on your lips, I pray.
@@ -1231,11 +1231,11 @@ Exeunt
 
 ACT II
 
-SCENE I. A room in ' house.
+SCENE I. A room in house.
 
-Enter  and
+Enter and
 LORD
-Give him this money and these notes, .
+Give him this money and these notes,
 
 I will, my lord.
 LORD
@@ -1254,7 +1254,7 @@ That they do know my son, come you more nearer
 Than your particular demands will touch it:
 Take you, as 'twere, some distant knowledge of him;
 As thus, 'I know his father and his friends,
-And in part him: ' do you mark this, ?
+And in part him: do you mark this, ?
 
 Ay, very well, my lord.
 LORD
@@ -1344,14 +1344,14 @@ LORD
 Farewell!
 Exit
 
-Enter OPHELIA
+Enter
 
-How now, Ophelia! what's the matter?
-OPHELIA
+How now,  what's the matter?
+
 O, my lord, my lord, I have been so affrighted!
 LORD
 With what, i' the name of God?
-OPHELIA
+
 My lord, as I was sewing in my closet,
 Lord with his doublet all unbraced;
 No hat upon his head; his stockings foul'd,
@@ -1362,12 +1362,12 @@ As if he had been loosed out of hell
 To speak of horrors,--he comes before me.
 LORD
 Mad for thy love?
-OPHELIA
+
 My lord, I do not know;
 But truly, I do fear it.
 LORD
 What said he?
-OPHELIA
+
 He took me by the wrist and held me hard;
 Then goes he to the length of all his arm;
 And, with his other hand thus o'er his brow,
@@ -1390,7 +1390,7 @@ And leads the will to desperate undertakings
 As oft as any passion under heaven
 That does afflict our natures. I am sorry.
 What, have you given him any hard words of late?
-OPHELIA
+
 No, my good lord, but, as you did command,
 I did repel his fetters and denied
 His access to me.
@@ -1410,9 +1410,9 @@ Exeunt
 
 SCENE II. A room in the castle.
 
-Enter ROSENCRANTZ, GUILDENSTERN, and Attendants
+Enter  ,  , and Attendants
 
-Welcome, dear Rosencrantz and Guildenstern!
+Welcome, dear   and  !
 Moreover that we much did long to see you,
 The need we have to use you did provoke
 Our hasty sending. Something have you heard
@@ -1439,29 +1439,29 @@ As to expend your time with us awhile,
 For the supply and profit of our hope,
 Your visitation shall receive such thanks
 As fits a king's remembrance.
-ROSENCRANTZ
+
 Both your majesties
 Might, by the sovereign power you have of us,
 Put your dread pleasures more into command
 Than to entreaty.
-GUILDENSTERN
+
 But we both obey,
 And here give up ourselves, in the full bent
 To lay our service freely at your feet,
 To be commanded.
 
-Thanks, Rosencrantz and gentle Guildenstern.
+Thanks,   and gentle
 
-Thanks, Guildenstern and gentle Rosencrantz:
+Thanks,   and gentle  :
 And I beseech you instantly to visit
 My too much changed son. Go, some of you,
-And bring these gentlemen where  is.
-GUILDENSTERN
+And bring these gentlemen where is.
+
 Heavens make our presence and our practises
 Pleasant and helpful to him!
 
 Ay, amen!
-Exeunt ROSENCRANTZ, GUILDENSTERN, and some Attendants
+Exeunt  ,  , and some Attendants
 
 Enter
 
@@ -1494,7 +1494,7 @@ I doubt it is no other but the main;
 His father's death, and our o'erhasty marriage.
 
 Well, we shall sift him.
-Re-enter with  and
+Re-enter with and
 
 Welcome, my good friends!
 Say, what from our brother Norway?
@@ -1507,7 +1507,7 @@ But, better look'd into, he truly found
 It was against your highness: whereat grieved,
 That so his sickness, age and impotence
 Was falsely borne in hand, sends out arrests
-On ; which he, in brief, obeys;
+On which he, in brief, obeys;
 Receives rebuke from Norway, and in fine
 Makes vow before his uncle never more
 To give the assay of arms against your majesty.
@@ -1529,7 +1529,7 @@ Answer, and think upon this business.
 Meantime we thank you for your well-took labour:
 Go to your rest; at night we'll feast together:
 Most welcome home!
-Exeunt  and
+Exeunt and
 
 LORD
 This business is well ended.
@@ -1561,14 +1561,14 @@ Hath given me this: now gather, and surmise.
 Reads
 
 'To the celestial and my soul's idol, the most
-beautified Ophelia,'--
+beautified  ,'--
 That's an ill phrase, a vile phrase; 'beautified' is
 a vile phrase: but you shall hear. Thus:
 Reads
 
 'In her excellent white bosom, these, & c.'
 
-Came this from  to her?
+Came this from to her?
 LORD
 Good madam, stay awhile; I will be faithful.
 Reads
@@ -1577,11 +1577,11 @@ Reads
 Doubt that the sun doth move;
 Doubt truth to be a liar;
 But never doubt I love.
-'O dear Ophelia, I am ill at these numbers;
+'O dear  , I am ill at these numbers;
 I have not art to reckon my groans: but that
 I love thee best, O most best, believe it. Adieu.
 'Thine evermore most dear lady, whilst
-this machine is to him, .'
+this machine is to him, '
 This, in obedience, hath my daughter shown me,
 And more above, hath his solicitings,
 As they fell out by time, by means and place,
@@ -1604,7 +1604,7 @@ Or given my heart a winking, mute and dumb,
 Or look'd upon this love with idle sight;
 What might you think? No, I went round to work,
 And my young mistress thus I did bespeak:
-'Lord  is a prince, out of thy star;
+'Lord is a prince, out of thy star;
 This must not be:' and then I precepts gave her,
 That she should lock herself from his resort,
 Admit no messengers, receive no tokens.
@@ -1626,7 +1626,7 @@ When it proved otherwise?
 
 Not that I know.
 LORD
-[Pointing to his head and shoulder]
+ Pointing to his head and shoulder
 Take this from this, if this be otherwise:
 If circumstances lead me, I will find
 Where truth is hid, though it were hid indeed
@@ -1685,7 +1685,7 @@ Let her not walk i' the sun: conception is a
 blessing: but not as your daughter may conceive.
 Friend, look to 't.
 LORD
-[Aside] How say you by that? Still harping on my
+ Aside  How say you by that? Still harping on my
 daughter: yet he knew me not at first; he said I
 was a fishmonger: he is far gone, far gone: and
 truly in my youth I suffered much extremity for
@@ -1710,7 +1710,7 @@ I hold it not honesty to have it thus set down, for
 yourself, sir, should be old as I am, if like a crab
 you could go backward.
 LORD
-[Aside] Though this be madness, yet there is method
+ Aside  Though this be madness, yet there is method
 in 't. Will you walk out of the air, my lord?
 
 Into my grave.
@@ -1732,87 +1732,87 @@ LORD
 Fare you well, my lord.
 
 These tedious old fools!
-Enter ROSENCRANTZ and GUILDENSTERN
+Enter   and
 
 LORD
-You go to seek the Lord ; there he is.
-ROSENCRANTZ
-[To ] God save you, sir!
+You go to seek the Lord there he is.
+
+ To   God save you, sir!
 Exit
 
-GUILDENSTERN
+
 My honoured lord!
-ROSENCRANTZ
+
 My most dear lord!
 
 My excellent good friends! How dost thou,
-Guildenstern? Ah, Rosencrantz! Good lads, how do ye both?
-ROSENCRANTZ
+ Ah,  Good lads, how do ye both?
+
 As the indifferent children of the earth.
-GUILDENSTERN
+
 Happy, in that we are not over-happy;
 On fortune's cap we are not the very button.
 
 Nor the soles of her shoe?
-ROSENCRANTZ
+
 Neither, my lord.
 
 Then you live about her waist, or in the middle of
 her favours?
-GUILDENSTERN
+
 'Faith, her privates we.
 
 In the secret parts of fortune? O, most true; she
 is a strumpet. What's the news?
-ROSENCRANTZ
+
 None, my lord, but that the world's grown honest.
 
 Then is doomsday near: but your news is not true.
 Let me question more in particular: what have you,
 my good friends, deserved at the hands of fortune,
 that she sends you to prison hither?
-GUILDENSTERN
+
 Prison, my lord!
 
 Denmark's a prison.
-ROSENCRANTZ
+
 Then is the world one.
 
 A goodly one; in which there are many confines,
 wards and dungeons, Denmark being one o' the worst.
-ROSENCRANTZ
+
 We think not so, my lord.
 
 Why, then, 'tis none to you; for there is nothing
 either good or bad, but thinking makes it so: to me
 it is a prison.
-ROSENCRANTZ
+
 Why then, your ambition makes it one; 'tis too
 narrow for your mind.
 
 O God, I could be bounded in a nut shell and count
 myself a king of infinite space, were it not that I
 have bad dreams.
-GUILDENSTERN
+
 Which dreams indeed are ambition, for the very
 substance of the ambitious is merely the shadow of a dream.
 
 A dream itself is but a shadow.
-ROSENCRANTZ
+
 Truly, and I hold ambition of so airy and light a
 quality that it is but a shadow's shadow.
 
 Then are our beggars bodies, and our monarchs and
 outstretched heroes the beggars' shadows. Shall we
 to the court? for, by my fay, I cannot reason.
-ROSENCRANTZ GUILDENSTERN
+
 We'll wait upon you.
 
 No such matter: I will not sort you with the rest
 of my servants, for, to speak to you like an honest
 man, I am most dreadfully attended. But, in the
 beaten way of friendship, what make you at Elsinore?
-ROSENCRANTZ
+
 To visit you, my lord; no other occasion.
 
 Beggar that I am, I am even poor in thanks; but I
@@ -1820,14 +1820,14 @@ thank you: and sure, dear friends, my thanks are
 too dear a halfpenny. Were you not sent for? Is it
 your own inclining? Is it a free visitation? Come,
 deal justly with me: come, come; nay, speak.
-GUILDENSTERN
+
 What should we say, my lord?
 
 Why, any thing, but to the purpose. You were sent
 for; and there is a kind of confession in your looks
 which your modesties have not craft enough to colour:
 I know the good king and queen have sent for you.
-ROSENCRANTZ
+
 To what end, my lord?
 
 That you must teach me. But let me conjure you, by
@@ -1836,12 +1836,12 @@ our youth, by the obligation of our ever-preserved
 love, and by what more dear a better proposer could
 charge you withal, be even and direct with me,
 whether you were sent for, or no?
-ROSENCRANTZ
-[Aside to GUILDENSTERN] What say you?
 
-[Aside] Nay, then, I have an eye of you.--If you
+ Aside to    What say you?
+
+ Aside  Nay, then, I have an eye of you.--If you
 love me, hold not off.
-GUILDENSTERN
+
 My lord, we were sent for.
 
 I will tell you why; so shall my anticipation
@@ -1863,11 +1863,11 @@ world! the paragon of animals! And yet, to me,
 what is this quintessence of dust? man delights not
 me: no, nor woman neither, though by your smiling
 you seem to say so.
-ROSENCRANTZ
+
 My lord, there was no such stuff in my thoughts.
 
 Why did you laugh then, when I said 'man delights not me'?
-ROSENCRANTZ
+
 To think, my lord, if you delight not in man, what
 lenten entertainment the players shall receive from
 you: we coted them on the way; and hither are they
@@ -1881,23 +1881,23 @@ in peace; the clown shall make those laugh whose
 lungs are tickled o' the sere; and the lady shall
 say her mind freely, or the blank verse shall halt
 for't. What players are they?
-ROSENCRANTZ
+
 Even those you were wont to take delight in, the
 tragedians of the city.
 
 How chances it they travel? their residence, both
 in reputation and profit, was better both ways.
-ROSENCRANTZ
+
 I think their inhibition comes by the means of the
 late innovation.
 
 Do they hold the same estimation they did when I was
 in the city? are they so followed?
-ROSENCRANTZ
+
 No, indeed, are they not.
 
 How comes it? do they grow rusty?
-ROSENCRANTZ
+
 Nay, their endeavour keeps in the wonted pace: but
 there is, sir, an aery of children, little eyases,
 that cry out on the top of question, and are most
@@ -1913,7 +1913,7 @@ afterwards, if they should grow themselves to common
 players--as it is most like, if their means are no
 better--their writers do them wrong, to make them
 exclaim against their own succession?
-ROSENCRANTZ
+
 'Faith, there has been much to do on both sides; and
 the nation holds it no sin to tarre them to
 controversy: there was, for a while, no money bid
@@ -1921,11 +1921,11 @@ for argument, unless the poet and the player went to
 cuffs in the question.
 
 Is't possible?
-GUILDENSTERN
+
 O, there has been much throwing about of brains.
 
 Do the boys carry it away?
-ROSENCRANTZ
+
 Ay, that they do, my lord; Hercules and his load too.
 
 It is not very strange; for mine uncle is king of
@@ -1936,7 +1936,7 @@ hundred ducats a-piece for his picture in little.
 natural, if philosophy could find it out.
 Flourish of trumpets within
 
-GUILDENSTERN
+
 There are the players.
 
 Gentlemen, you are welcome to Elsinore. Your hands,
@@ -1946,7 +1946,7 @@ lest my extent to the players, which, I tell you,
 must show fairly outward, should more appear like
 entertainment than yours. You are welcome: but my
 uncle-father and aunt-mother are deceived.
-GUILDENSTERN
+
 In what, my dear lord?
 
 I am but mad north-north-west: when the wind is
@@ -1956,10 +1956,10 @@ Enter
 LORD
 Well be with you, gentlemen!
 
-Hark you, Guildenstern; and you too: at each ear a
+Hark you,  and you too: at each ear a
 hearer: that great baby you see there is not yet
 out of his swaddling-clouts.
-ROSENCRANTZ
+
 Happily he's the second time come to them; for they
 say an old man is twice a child.
 
@@ -1996,7 +1996,7 @@ Why,
 'One fair daughter and no more,
 The which he loved passing well.'
 LORD
-[Aside] Still on my daughter.
+ Aside  Still on my daughter.
 
 Am I not i' the right, old Jephthah?
 LORD
@@ -2147,7 +2147,7 @@ LORD
 Come, sirs.
 
 Follow him, friends: we'll hear a play to-morrow.
-Exit  with all the Players but the First
+Exit with all the Players but the First
 
 Dost thou hear me, old friend; can you play the
 Murder of Gonzago?
@@ -2166,11 +2166,11 @@ Exit First Player
 
 My good friends, I'll leave you till night: you are
 welcome to Elsinore.
-ROSENCRANTZ
+
 Good my lord!
 
 Ay, so, God be wi' ye;
-Exeunt ROSENCRANTZ and GUILDENSTERN
+Exeunt   and
 
 Now I am alone.
 O, what a rogue and peasant slave am I!
@@ -2237,33 +2237,33 @@ ACT III
 
 SCENE I. A room in the castle.
 
-Enter OPHELIA, ROSENCRANTZ, and GUILDENSTERN
+Enter  ,  , and
 
 And can you, by no drift of circumstance,
 Get from him why he puts on this confusion,
 Grating so harshly all his days of quiet
 With turbulent and dangerous lunacy?
-ROSENCRANTZ
+
 He does confess he feels himself distracted;
 But from what cause he will by no means speak.
-GUILDENSTERN
+
 Nor do we find him forward to be sounded,
 But, with a crafty madness, keeps aloof,
 When we would bring him on to some confession
 Of his true state.
 
 Did he receive you well?
-ROSENCRANTZ
+
 Most like a gentleman.
-GUILDENSTERN
+
 But with much forcing of his disposition.
-ROSENCRANTZ
+
 Niggard of question; but, of our demands,
 Most free in his reply.
 
 Did you assay him?
 To any pastime?
-ROSENCRANTZ
+
 Madam, it so fell out, that certain players
 We o'er-raught on the way: of these we told him;
 And there did seem in him a kind of joy
@@ -2279,15 +2279,15 @@ With all my heart; and it doth much content me
 To hear him so inclined.
 Good gentlemen, give him a further edge,
 And drive his purpose on to these delights.
-ROSENCRANTZ
+
 We shall, my lord.
-Exeunt ROSENCRANTZ and GUILDENSTERN
+Exeunt   and
 
 
 Sweet Gertrude, leave us too;
-For we have closely sent for  hither,
+For we have closely sent for hither,
 That he, as 'twere by accident, may here
-Affront Ophelia:
+Affront  :
 Her father and myself, lawful espials,
 Will so bestow ourselves that, seeing, unseen,
 We may of their encounter frankly judge,
@@ -2296,19 +2296,19 @@ If 't be the affliction of his love or no
 That thus he suffers for.
 
 I shall obey you.
-And for your part, Ophelia, I do wish
+And for your part,  , I do wish
 That your good beauties be the happy cause
 Of 's wildness: so shall I hope your virtues
 Will bring him to his wonted way again,
 To both your honours.
-OPHELIA
+
 Madam, I wish it may.
 Exit
 
 LORD
-Ophelia, walk you here. Gracious, so please you,
+ , walk you here. Gracious, so please you,
 We will bestow ourselves.
-To OPHELIA
+To
 
 Read on this book;
 That show of such an exercise may colour
@@ -2317,7 +2317,7 @@ Your loneliness. We are oft to blame in this,--
 And pious action we do sugar o'er
 The devil himself.
 
-[Aside] O, 'tis too true!
+ Aside  O, 'tis too true!
 How smart a lash that speech doth give my conscience!
 The harlot's cheek, beautied with plastering art,
 Is not more ugly to the thing that helps it
@@ -2325,7 +2325,7 @@ Than is my deed to my most painted word:
 O heavy burthen!
 LORD
 I hear him coming: let's withdraw, my lord.
-Exeunt  and
+Exeunt and
 
 Enter
 
@@ -2363,21 +2363,21 @@ Is sicklied o'er with the pale cast of thought,
 And enterprises of great pith and moment
 With this regard their currents turn awry,
 And lose the name of action.--Soft you now!
-The fair Ophelia! Nymph, in thy orisons
+The fair  Nymph, in thy orisons
 Be all my sins remember'd.
-OPHELIA
+
 Good my lord,
 How does your honour for this many a day?
 
 I humbly thank you; well, well, well.
-OPHELIA
+
 My lord, I have remembrances of yours,
 That I have longed long to re-deliver;
 I pray you, now receive them.
 
 No, not I;
 I never gave you aught.
-OPHELIA
+
 My honour'd lord, you know right well you did;
 And, with them, words of so sweet breath composed
 As made the things more rich: their perfume lost,
@@ -2386,16 +2386,16 @@ Rich gifts wax poor when givers prove unkind.
 There, my lord.
 
 Ha, ha! are you honest?
-OPHELIA
+
 My lord?
 
 Are you fair?
-OPHELIA
+
 What means your lordship?
 
 That if you be honest and fair, your honesty should
 admit no discourse to your beauty.
-OPHELIA
+
 Could beauty, my lord, have better commerce than
 with honesty?
 
@@ -2404,13 +2404,13 @@ transform honesty from what it is to a bawd than the
 force of honesty can translate beauty into his
 likeness: this was sometime a paradox, but now the
 time gives it proof. I did love you once.
-OPHELIA
+
 Indeed, my lord, you made me believe so.
 
 You should not have believed me; for virtue cannot
 so inoculate our old stock but we shall relish of
 it: I loved you not.
-OPHELIA
+
 I was the more deceived.
 
 Get thee to a nunnery: why wouldst thou be a
@@ -2424,12 +2424,12 @@ in. What should such fellows as I do crawling
 between earth and heaven? We are arrant knaves,
 all; believe none of us. Go thy ways to a nunnery.
 Where's your father?
-OPHELIA
+
 At home, my lord.
 
 Let the doors be shut upon him, that he may play the
 fool no where but in's own house. Farewell.
-OPHELIA
+
 O, help him, you sweet heavens!
 
 If thou dost marry, I'll give thee this plague for
@@ -2439,7 +2439,7 @@ nunnery, go: farewell. Or, if thou wilt needs
 marry, marry a fool; for wise men know well enough
 what monsters you make of them. To a nunnery, go,
 and quickly too. Farewell.
-OPHELIA
+
 O heavenly powers, restore him!
 
 I have heard of your paintings too, well enough; God
@@ -2453,7 +2453,7 @@ live; the rest shall keep as they are. To a
 nunnery, go.
 Exit
 
-OPHELIA
+
 O, what a noble mind is here o'erthrown!
 The courtier's, soldier's, scholar's, eye, tongue, sword;
 The expectancy and rose of the fair state,
@@ -2466,7 +2466,7 @@ Like sweet bells jangled, out of tune and harsh;
 That unmatch'd form and feature of blown youth
 Blasted with ecstasy: O, woe is me,
 To have seen what I have seen, see what I see!
-Re-enter  and
+Re-enter and
 
 
 Love! his affections do not that way tend;
@@ -2486,8 +2486,8 @@ From fashion of himself. What think you on't?
 LORD
 It shall do well: but yet do I believe
 The origin and commencement of his grief
-Sprung from neglected love. How now, Ophelia!
-You need not tell us what Lord  said;
+Sprung from neglected love. How now,  !
+You need not tell us what Lord said;
 We heard it all. My lord, do as you please;
 But, if you hold it fit, after the play
 Let his queen mother all alone entreat him
@@ -2503,7 +2503,7 @@ Exeunt
 
 SCENE II. A hall in the castle.
 
-Enter  and Players
+Enter and Players
 
 Speak the speech, I pray you, as I pronounced it to
 you, trippingly on the tongue: but if you mouth it,
@@ -2557,7 +2557,7 @@ that's villanous, and shows a most pitiful ambition
 in the fool that uses it. Go, make you ready.
 Exeunt Players
 
-Enter ROSENCRANTZ, and GUILDENSTERN
+Enter  , and
 
 How now, my lord! I will the king hear this piece of work?
 LORD
@@ -2567,9 +2567,9 @@ Bid the players make haste.
 Exit
 
 Will you two help to hasten them?
-ROSENCRANTZ GUILDENSTERN
+
 We will, my lord.
-Exeunt ROSENCRANTZ and GUILDENSTERN
+Exeunt   and
 
 
 What ho! !
@@ -2609,7 +2609,7 @@ I prithee, when thou seest that act afoot,
 Even with the very comment of thy soul
 Observe mine uncle: if his occulted guilt
 Do not itself unkennel in one speech,
-It is a damned  that we have seen,
+It is a damned that we have seen,
 And my imaginations are as foul
 As Vulcan's stithy. Give him heedful note;
 For I mine eyes will rivet to his face,
@@ -2622,7 +2622,7 @@ And 'scape detecting, I will pay the theft.
 
 They are coming to the play; I must be idle:
 Get you a place.
-Danish march. A flourish. Enter OPHELIA, ROSENCRANTZ, GUILDENSTERN, and others
+Danish march. A flourish. Enter  ,  ,  , and others
 
 
 How fares our cousin ?
@@ -2630,7 +2630,7 @@ How fares our cousin ?
 Excellent, i' faith; of the chameleon's dish: I eat
 the air, promise-crammed: you cannot feed capons so.
 
-I have nothing with this answer, ; these words
+I have nothing with this answer, these words
 are not mine.
 
 No, nor mine now.
@@ -2647,45 +2647,45 @@ Capitol; Brutus killed me.
 
 It was a brute part of him to kill so capital a calf
 there. Be the players ready?
-ROSENCRANTZ
+
 Ay, my lord; they stay upon your patience.
 
 Come hither, my dear sit by me.
 
 No, good mother, here's metal more attractive.
 LORD
-[To ] O, ho! do you mark that?
+ To   O, ho! do you mark that?
 
 Lady, shall I lie in your lap?
-Lying down at OPHELIA's feet
+Lying down at  's feet
 
-OPHELIA
+
 No, my lord.
 
 I mean, my head upon your lap?
-OPHELIA
+
 Ay, my lord.
 
 Do you think I meant country matters?
-OPHELIA
+
 I think nothing, my lord.
 
 That's a fair thought to lie between maids' legs.
-OPHELIA
+
 What is, my lord?
 
 Nothing.
-OPHELIA
+
 You are merry, my lord.
 
 Who, I?
-OPHELIA
+
 Ay, my lord.
 
 O God, your only jig-maker. What should a man do
 but be merry? for, look you, how cheerfully my
 mother looks, and my father died within these two hours.
-OPHELIA
+
 Nay, 'tis twice two months, my lord.
 
 So long? Nay then, let the devil wear black, for
@@ -2702,23 +2702,23 @@ Enter a King and a Queen very lovingly; the Queen embracing him, and he her. She
 
 Exeunt
 
-OPHELIA
+
 What means this, my lord?
 
 Marry, this is miching mallecho; it means mischief.
-OPHELIA
+
 Belike this show imports the argument of the play.
 Enter Prologue
 
 
 We shall know by this fellow: the players cannot
 keep counsel; they'll tell all.
-OPHELIA
+
 Will he tell us what this show meant?
 
 Ay, or any show that you'll show him: be not you
 ashamed to show, he'll not shame to tell you what it means.
-OPHELIA
+
 You are naught, you are naught: I'll mark the play.
 Prologue
 For us, and for our tragedy,
@@ -2728,7 +2728,7 @@ Exit
 
 
 Is this a prologue, or the posy of a ring?
-OPHELIA
+
 'Tis brief, my lord.
 
 As woman's love.
@@ -2766,7 +2766,7 @@ Such love must needs be treason in my breast:
 In second husband let me be accurst!
 None wed the second but who kill'd the first.
 
-[Aside] Wormwood, wormwood.
+ Aside  Wormwood, wormwood.
 Player Queen
 The instances that second marriage move
 Are base respects of thrift, but none of love:
@@ -2846,25 +2846,25 @@ anon; 'tis a knavish piece of work: but what o'
 that? your majesty and we that have free souls, it
 touches us not: let the galled jade wince, our
 withers are unwrung.
-Enter LUCIANUS
+Enter
 
-This is one Lucianus, nephew to the king.
-OPHELIA
+This is one  , nephew to the king.
+
 You are as good as a chorus, my lord.
 
 I could interpret between you and your love, if I
 could see the puppets dallying.
-OPHELIA
+
 You are keen, my lord, you are keen.
 
 It would cost you a groaning to take off my edge.
-OPHELIA
+
 Still better, and worse.
 
 So you must take your husbands. Begin, murderer;
 pox, leave thy damnable faces, and begin. Come:
 'the croaking raven doth bellow for revenge.'
-LUCIANUS
+
 Thoughts black, hands apt, drugs fit, and time agreeing;
 Confederate season, else no creature seeing;
 Thou mixture rank, of midnight weeds collected,
@@ -2878,7 +2878,7 @@ He poisons him i' the garden for's estate. His
 name's Gonzago: the story is extant, and writ in
 choice Italian: you shall see anon how the murderer
 gets the love of Gonzago's wife.
-OPHELIA
+
 The king rises.
 
 What, frighted with false fire!
@@ -2890,7 +2890,7 @@ Give o'er the play.
 Give me some light: away!
 All
 Lights, lights, lights!
-Exeunt all but  and
+Exeunt all but and
 
 
 Why, let the stricken deer go weep,
@@ -2925,38 +2925,38 @@ Ah, ha! Come, some music! come, the recorders!
 For if the king like not the comedy,
 Why then, belike, he likes it not, perdy.
 Come, some music!
-Re-enter ROSENCRANTZ and GUILDENSTERN
+Re-enter   and
 
-GUILDENSTERN
+
 Good my lord, vouchsafe me a word with you.
 
 Sir, a whole history.
-GUILDENSTERN
+
 The king, sir,--
 
 Ay, sir, what of him?
-GUILDENSTERN
+
 Is in his retirement marvellous distempered.
 
 With drink, sir?
-GUILDENSTERN
+
 No, my lord, rather with choler.
 
 Your wisdom should show itself more richer to
 signify this to his doctor; for, for me to put him
 to his purgation would perhaps plunge him into far
 more choler.
-GUILDENSTERN
+
 Good my lord, put your discourse into some frame and
 start not so wildly from my affair.
 
 I am tame, sir: pronounce.
-GUILDENSTERN
+
 The queen, your mother, in most great affliction of
 spirit, hath sent me to you.
 
 You are welcome.
-GUILDENSTERN
+
 Nay, good my lord, this courtesy is not of the right
 breed. If it shall please you to make me a
 wholesome answer, I will do your mother's
@@ -2964,37 +2964,37 @@ commandment: if not, your pardon and my return
 shall be the end of my business.
 
 Sir, I cannot.
-GUILDENSTERN
+
 What, my lord?
 
 Make you a wholesome answer; my wit's diseased: but,
 sir, such answer as I can make, you shall command;
 or, rather, as you say, my mother: therefore no
 more, but to the matter: my mother, you say,--
-ROSENCRANTZ
+
 Then thus she says; your behavior hath struck her
 into amazement and admiration.
 
 O wonderful son, that can so astonish a mother! But
 is there no sequel at the heels of this mother's
 admiration? Impart.
-ROSENCRANTZ
+
 She desires to speak with you in her closet, ere you
 go to bed.
 
 We shall obey, were she ten times our mother. Have
 you any further trade with us?
-ROSENCRANTZ
+
 My lord, you once did love me.
 
 So I do still, by these pickers and stealers.
-ROSENCRANTZ
+
 Good my lord, what is your cause of distemper? you
 do, surely, bar the door upon your own liberty, if
 you deny your griefs to your friend.
 
 Sir, I lack advancement.
-ROSENCRANTZ
+
 How can that be, when you have the voice of the king
 himself for your succession in Denmark?
 
@@ -3005,28 +3005,28 @@ Re-enter Players with recorders
 O, the recorders! let me see one. To withdraw with
 you:--why do you go about to recover the wind of me,
 as if you would drive me into a toil?
-GUILDENSTERN
+
 O, my lord, if my duty be too bold, my love is too
 unmannerly.
 
 I do not well understand that. Will you play upon
 this pipe?
-GUILDENSTERN
+
 My lord, I cannot.
 
 I pray you.
-GUILDENSTERN
+
 Believe me, I cannot.
 
 I do beseech you.
-GUILDENSTERN
+
 I know no touch of it, my lord.
 
 'Tis as easy as lying: govern these ventages with
 your lingers and thumb, give it breath with your
 mouth, and it will discourse most eloquent music.
 Look you, these are the stops.
-GUILDENSTERN
+
 But these cannot I command to any utterance of
 harmony; I have not the skill.
 
@@ -3086,7 +3086,7 @@ Exit
 
 SCENE III. A room in the castle.
 
-Enter ROSENCRANTZ, and GUILDENSTERN
+Enter  , and
 
 I like him not, nor stands it safe with us
 To let his madness range. Therefore prepare you;
@@ -3095,12 +3095,12 @@ And he to England shall along with you:
 The terms of our estate may not endure
 Hazard so dangerous as doth hourly grow
 Out of his lunacies.
-GUILDENSTERN
+
 We will ourselves provide:
 Most holy and religious fear it is
 To keep those many many bodies safe
 That live and feed upon your majesty.
-ROSENCRANTZ
+
 The single and peculiar life is bound,
 With all the strength and armour of the mind,
 To keep itself from noyance; but much more
@@ -3118,9 +3118,9 @@ Did the king sigh, but with a general groan.
 Arm you, I pray you, to this speedy voyage;
 For we will fetters put upon this fear,
 Which now goes too free-footed.
-ROSENCRANTZ GUILDENSTERN
+
 We will haste us.
-Exeunt ROSENCRANTZ and GUILDENSTERN
+Exeunt   and
 
 Enter
 
@@ -3207,13 +3207,13 @@ This physic but prolongs thy sickly days.
 Exit
 
 
-[Rising] My words fly up, my thoughts remain below:
+ Rising  My words fly up, my thoughts remain below:
 Words without thoughts never to heaven go.
 Exit
 
 SCENE IV. The Queen's closet.
 
-Enter  and
+Enter and
 LORD
 He will come straight. Look you lay home to him:
 Tell him his pranks have been too broad to bear with,
@@ -3221,7 +3221,7 @@ And that your grace hath screen'd and stood between
 Much heat and him. I'll sconce me even here.
 Pray you, be round with him.
 
-[Within] Mother, mother, mother!
+ Within  Mother, mother, mother!
 
 I'll warrant you,
 Fear me not: withdraw, I hear him coming.
@@ -3259,13 +3259,13 @@ Where you may see the inmost part of you.
 What wilt thou do? thou wilt not murder me?
 Help, help, ho!
 LORD
-[Behind] What, ho! help, help, help!
+ Behind  What, ho! help, help, help!
 
-[Drawing] How now! a rat? Dead, for a ducat, dead!
+ Drawing  How now! a rat? Dead, for a ducat, dead!
 Makes a pass through the arras
 
 LORD
-[Behind] O, I am slain!
+ Behind  O, I am slain!
 Falls and dies
 
 
@@ -3389,7 +3389,7 @@ Is but to whet thy almost blunted purpose.
 But, look, amazement on thy mother sits:
 O, step between her and her fighting soul:
 Conceit in weakest bodies strongest works:
-Speak to her, .
+Speak to her,
 
 How is it with you, lady?
 
@@ -3462,7 +3462,7 @@ That aptly is put on. Refrain to-night,
 And that shall lend a kind of easiness
 To the next abstinence: the next more easy;
 For use almost can change the stamp of nature,
-And either [ ] the devil, or throw him out
+And either     the devil, or throw him out
 With wondrous potency. Once more, good night:
 And when you are desirous to be bless'd,
 I'll blessing beg of you. For this same lord,
@@ -3521,20 +3521,20 @@ Is now most still, most secret and most grave,
 Who was in life a foolish prating knave.
 Come, sir, to draw toward an end with you.
 Good night, mother.
-Exeunt severally;  dragging in
+Exeunt severally; dragging in
 
 ACT IV
 
 SCENE I. A room in the castle.
 
-Enter ROSENCRANTZ, and GUILDENSTERN
+Enter  , and
 
 There's matter in these sighs, these profound heaves:
 You must translate: 'tis fit we understand them.
 Where is your son?
 
 Bestow this place on us a little while.
-Exeunt ROSENCRANTZ and GUILDENSTERN
+Exeunt   and
 
 Ah, my good lord, what have I seen to-night!
 
@@ -3569,15 +3569,15 @@ O Gertrude, come away!
 The sun no sooner shall the mountains touch,
 But we will ship him hence: and this vile deed
 We must, with all our majesty and skill,
-Both countenance and excuse. Ho, Guildenstern!
-Re-enter ROSENCRANTZ and GUILDENSTERN
+Both countenance and excuse. Ho,  !
+Re-enter   and
 
 Friends both, go join you with some further aid:
- in madness hath  slain,
+ in madness hath slain,
 And from his mother's closet hath he dragg'd him:
 Go seek him out; speak fair, and bring the body
 Into the chapel. I pray you, haste in this.
-Exeunt ROSENCRANTZ and GUILDENSTERN
+Exeunt   and
 
 Come, Gertrude, we'll call up our wisest friends;
 And let them know, both what we mean to do,
@@ -3590,29 +3590,29 @@ SCENE II. Another room in the castle.
 Enter
 
 Safely stowed.
-ROSENCRANTZ: GUILDENSTERN:
-[Within] ! Lord !
+  :
+ Within  Lord !
 
 What noise? who calls on ?
 O, here they come.
-Enter ROSENCRANTZ and GUILDENSTERN
+Enter   and
 
-ROSENCRANTZ
+
 What have you done, my lord, with the dead body?
 
 Compounded it with dust, whereto 'tis kin.
-ROSENCRANTZ
+
 Tell us where 'tis, that we may take it thence
 And bear it to the chapel.
 
 Do not believe it.
-ROSENCRANTZ
+
 Believe what?
 
 That I can keep your counsel and not mine own.
 Besides, to be demanded of a sponge! what
 replication should be made by the son of a king?
-ROSENCRANTZ
+
 Take you me for a sponge, my lord?
 
 Ay, sir, that soaks up the king's countenance, his
@@ -3622,18 +3622,18 @@ an ape, in the corner of his jaw; first mouthed, to
 be last swallowed: when he needs what you have
 gleaned, it is but squeezing you, and, sponge, you
 shall be dry again.
-ROSENCRANTZ
+
 I understand you not, my lord.
 
 I am glad of it: a knavish speech sleeps in a
 foolish ear.
-ROSENCRANTZ
+
 My lord, you must tell us where the body is, and go
 with us to the king.
 
 The body is with the king, but the king is not with
 the body. The king is a thing--
-GUILDENSTERN
+
 A thing, my lord!
 
 Of nothing: bring me to him. Hide fox, and all after.
@@ -3654,21 +3654,21 @@ This sudden sending him away must seem
 Deliberate pause: diseases desperate grown
 By desperate appliance are relieved,
 Or not at all.
-Enter ROSENCRANTZ
+Enter
 
 How now! what hath befall'n?
-ROSENCRANTZ
+
 Where the dead body is bestow'd, my lord,
 We cannot get from him.
 
 But where is he?
-ROSENCRANTZ
+
 Without, my lord; guarded, to know your pleasure.
 
 Bring him before us.
-ROSENCRANTZ
-Ho, Guildenstern! bring in my lord.
-Enter  and GUILDENSTERN
+
+Ho,  bring in my lord.
+Enter and
 
 
 Now, where's ?
@@ -3721,7 +3721,7 @@ For England.
 
 For England!
 
-Ay, .
+Ay,
 
 Good.
 
@@ -3730,7 +3730,7 @@ So is it, if thou knew'st our purposes.
 I see a cherub that sees them. But, come; for
 England! Farewell, dear mother.
 
-Thy loving father, .
+Thy loving father,
 
 My mother: father and mother is man and wife; man
 and wife is one flesh; and so, my mother. Come, for England!
@@ -3741,7 +3741,7 @@ Follow him at foot; tempt him with speed aboard;
 Delay it not; I'll have him hence to-night:
 Away! for every thing is seal'd and done
 That else leans on the affair: pray you, make haste.
-Exeunt ROSENCRANTZ and GUILDENSTERN
+Exeunt   and
 
 And, England, if my love thou hold'st at aught--
 As my great power thereof may give thee sense,
@@ -3750,7 +3750,7 @@ After the Danish sword, and thy free awe
 Pays homage to us--thou mayst not coldly set
 Our sovereign process; which imports at full,
 By letters congruing to that effect,
-The present death of . Do it, England;
+The present death of Do it, England;
 For like the hectic in my blood he rages,
 And thou must cure me: till I know 'tis done,
 Howe'er my haps, my joys were ne'er begun.
@@ -3771,9 +3771,9 @@ Captain
 I will do't, my lord.
 PRINCE
 Go softly on.
-Exeunt  and Soldiers
+Exeunt and Soldiers
 
-Enter ROSENCRANTZ, GUILDENSTERN, and others
+Enter  ,  , and others
 
 
 Good sir, whose powers are these?
@@ -3786,7 +3786,7 @@ Against some part of Poland.
 
 Who commands them, sir?
 Captain
-The nephews to old Norway, .
+The nephews to old Norway,
 
 Goes it against the main of Poland, sir,
 Or for some frontier?
@@ -3811,7 +3811,7 @@ Captain
 God be wi' you, sir.
 Exit
 
-ROSENCRANTZ
+
 Wilt please you go, my lord?
 
 I'll be with you straight go a little before.
@@ -3887,21 +3887,21 @@ To my sick soul, as sin's true nature is,
 Each toy seems prologue to some great amiss:
 So full of artless jealousy is guilt,
 It spills itself in fearing to be spilt.
-Re-enter with OPHELIA
+Re-enter with
 
-OPHELIA
+
 Where is the beauteous majesty of Denmark?
 
-How now, Ophelia!
-OPHELIA
-[Sings]
+How now,  !
+
+ Sings
 How should I your true love know
 From another one?
 By his cockle hat and staff,
 And his sandal shoon.
 
 Alas, sweet lady, what imports this song?
-OPHELIA
+
 Say you? nay, pray you, mark.
 Sings
 
@@ -3910,8 +3910,8 @@ He is dead and gone;
 At his head a grass-green turf,
 At his heels a stone.
 
-Nay, but, Ophelia,--
-OPHELIA
+Nay, but,  ,--
+
 Pray you, mark.
 Sings
 
@@ -3920,20 +3920,20 @@ Enter
 
 
 Alas, look here, my lord.
-OPHELIA
-[Sings]
+
+ Sings
 Larded with sweet flowers
 Which bewept to the grave did go
 With true-love showers.
 
 How do you, pretty lady?
-OPHELIA
+
 Well, God 'ild you! They say the owl was a baker's
 daughter. Lord, we know what we are, but know not
 what we may be. God be at your table!
 
 Conceit upon her father.
-OPHELIA
+
 Pray you, let's have no words of this; but when they
 ask you what it means, say you this:
 Sings
@@ -3947,8 +3947,8 @@ And dupp'd the chamber-door;
 Let in the maid, that out a maid
 Never departed more.
 
-Pretty Ophelia!
-OPHELIA
+Pretty  !
+
 Indeed, la, without an oath, I'll make an end on't:
 Sings
 
@@ -3962,7 +3962,7 @@ So would I ha' done, by yonder sun,
 An thou hadst not come to my bed.
 
 How long hath she been thus?
-OPHELIA
+
 I hope all will be well. We must be patient: but I
 cannot choose but weep, to think they should lay him
 i' the cold ground. My brother shall know of it:
@@ -3983,8 +3983,8 @@ But in battalions. First, her father slain:
 Next, your son gone; and he most violent author
 Of his own just remove: the people muddied,
 Thick and unwholesome in their thoughts and whispers,
-For good ' death; and we have done but greenly,
-In hugger-mugger to inter him: poor Ophelia
+For good death; and we have done but greenly,
+In hugger-mugger to inter him: poor
 Divided from herself and her fair judgment,
 Without the which we are pictures, or mere beasts:
 Last, and as much containing as all these,
@@ -4015,9 +4015,9 @@ O'erbears your officers. The rabble call him lord;
 And, as the world were now but to begin,
 Antiquity forgot, custom not known,
 The ratifiers and props of every word,
-They cry 'Choose we:  shall be king:'
+They cry 'Choose we: shall be king:'
 Caps, hands, and tongues, applaud it to the clouds:
-' shall be king,  king!'
+' shall be king, king!'
 
 How cheerfully on the false trail they cry!
 O, this is counter, you false Danish dogs!
@@ -4041,7 +4041,7 @@ They retire without the door
 I thank you: keep the door. O thou vile king,
 Give me my father!
 
-Calmly, good .
+Calmly, good
 
 That drop of blood that's calm proclaims me bastard,
 Cries cuckold to my father, brands the harlot
@@ -4100,23 +4100,23 @@ And am most sensible in grief for it,
 It shall as level to your judgment pierce
 As day does to your eye.
 Danes
-[Within] Let her come in.
+ Within  Let her come in.
 
 How now! what noise is that?
-Re-enter OPHELIA
+Re-enter
 
 O heat, dry up my brains! tears seven times salt,
 Burn out the sense and virtue of mine eye!
 By heaven, thy madness shall be paid by weight,
 Till our scale turn the beam. O rose of May!
-Dear maid, kind sister, sweet Ophelia!
+Dear maid, kind sister, sweet  !
 O heavens! is't possible, a young maid's wits
 Should be as moral as an old man's life?
 Nature is fine in love, and where 'tis fine,
 It sends some precious instance of itself
 After the thing it loves.
-OPHELIA
-[Sings]
+
+ Sings
 They bore him barefaced on the bier;
 Hey non nonny, nonny, hey nonny;
 And in his grave rain'd many a tear:--
@@ -4124,20 +4124,20 @@ Fare you well, my dove!
 
 Hadst thou thy wits, and didst persuade revenge,
 It could not move thus.
-OPHELIA
-[Sings]
+
+ Sings
 You must sing a-down a-down,
 An you call him a-down-a.
 O, how the wheel becomes it! It is the false
 steward, that stole his master's daughter.
 
 This nothing's more than matter.
-OPHELIA
+
 There's rosemary, that's for remembrance; pray,
 love, remember: and there is pansies. that's for thoughts.
 
 A document in madness, thoughts and remembrance fitted.
-OPHELIA
+
 There's fennel for you, and columbines: there's rue
 for you; and here's some for me: we may call it
 herb-grace o' Sundays: O you must wear your rue with
@@ -4150,8 +4150,8 @@ For bonny sweet Robin is all my joy.
 
 Thought and affliction, passion, hell itself,
 She turns to favour and to prettiness.
-OPHELIA
-[Sings]
+
+ Sings
 And will he not come again?
 And will he not come again?
 No, no, he is dead:
@@ -4194,7 +4194,7 @@ Exeunt
 
 SCENE VI. Another room in the castle.
 
-Enter  and a Servant
+Enter and a Servant
 
 What are they that would speak with me?
 Servant
@@ -4204,7 +4204,7 @@ Let them come in.
 Exit Servant
 
 I do not know from what part of the world
-I should be greeted, if not from Lord .
+I should be greeted, if not from Lord
 Enter Sailors
 
 First Sailor
@@ -4217,7 +4217,7 @@ you, sir; it comes from the ambassador that was
 bound for England; if your name be as I am
 let to know it is.
 
-[Reads] ', when thou shalt have overlooked
+ Reads  ', when thou shalt have overlooked
 this, give these fellows some means to the king:
 they have letters for him. Ere we were two days old
 at sea, a pirate of very warlike appointment gave us
@@ -4232,10 +4232,10 @@ with as much speed as thou wouldst fly death. I
 have words to speak in thine ear will make thee
 dumb; yet are they much too light for the bore of
 the matter. These good fellows will bring thee
-where I am. Rosencrantz and Guildenstern hold their
+where I am.   and   hold their
 course for England: of them I have much to tell
 thee. Farewell.
-'He that thou knowest thine, .'
+'He that thou knowest thine, '
 Come, I will make you way for these your letters;
 And do't the speedier, that you may direct me
 To him from whom you brought them.
@@ -4243,7 +4243,7 @@ Exeunt
 
 SCENE VII. Another room in the castle.
 
-Enter  and
+Enter and
 
 Now must your conscience my acquaintance seal,
 And you must put me in your heart for friend,
@@ -4293,7 +4293,7 @@ Messenger
 Letters, my lord, from :
 This to your majesty; this to the queen.
 
-From ! who brought them?
+From who brought them?
 Messenger
 Sailors, my lord, they say; I saw them not:
 They were given me by Claudio; he received them
@@ -4387,7 +4387,7 @@ That he cried out, 'twould be a sight indeed,
 If one could match you: the scrimers of their nation,
 He swore, had had neither motion, guard, nor eye,
 If you opposed them. Sir, this report of his
-Did  so envenom with his envy
+Did so envenom with his envy
 That he could nothing do but wish and beg
 Your sudden coming o'er, to play with him.
 Now, out of this,--
@@ -4464,7 +4464,7 @@ Enter
 How now, sweet queen!
 
 One woe doth tread upon another's heel,
-So fast they follow; your sister's drown'd, .
+So fast they follow; your sister's drown'd,
 
 Drown'd! O, where?
 
@@ -4491,7 +4491,7 @@ Alas, then, she is drown'd?
 
 Drown'd, drown'd.
 
-Too much of water hast thou, poor Ophelia,
+Too much of water hast thou, poor  ,
 And therefore I forbid my tears: but yet
 It is our trick; nature her custom holds,
 Let shame say what it will: when these are gone,
@@ -4591,7 +4591,7 @@ First Clown
 To't.
 Second Clown
 Mass, I cannot tell.
-Enter  and at a distance
+Enter and at a distance
 
 First Clown
 Cudgel thy brains no more about it, for your dull
@@ -4617,7 +4617,7 @@ Custom hath made it in him a property of easiness.
 'Tis e'en so: the hand of little employment hath
 the daintier sense.
 First Clown
-[Sings]
+ Sings
 But age, with his stealing steps,
 Hath claw'd me in his clutch,
 And hath shipped me intil the land,
@@ -4647,7 +4647,7 @@ here's fine revolution, an we had the trick to
 see't. Did these bones cost no more the breeding,
 but to play at loggats with 'em? mine ache to think on't.
 First Clown
-[Sings]
+ Sings
 A pick-axe, and a spade, a spade,
 For and a shrouding sheet:
 O, a pit of clay for to be made
@@ -4719,12 +4719,12 @@ gaffs his kibe. How long hast thou been a
 grave-maker?
 First Clown
 Of all the days i' the year, I came to't that day
-that our last king  overcame .
+that our last king overcame
 
 How long is that since?
 First Clown
 Cannot you tell that? every fool can tell that: it
-was the very day that young  was born; he that
+was the very day that young was born; he that
 is mad, and sent into England.
 
 Ay, marry, why was he sent into England?
@@ -4782,7 +4782,7 @@ E'en that.
 Let me see.
 Takes the skull
 
-Alas, poor Yorick! I knew him, : a fellow
+Alas, poor Yorick! I knew him, a fellow
 of infinite jest, of most excellent fancy: he hath
 borne me on his back a thousand times; and now, how
 abhorred in my imagination it is! my gorge rims at
@@ -4809,7 +4809,7 @@ Puts down the skull
 
 E'en so, my lord.
 
-To what base uses we may return, ! Why may
+To what base uses we may return, Why may
 not imagination trace the noble dust of Alexander,
 till he find it stopping a bung-hole?
 
@@ -4826,7 +4826,7 @@ Might stop a hole to keep the wind away:
 O, that that earth, which kept the world in awe,
 Should patch a wall to expel the winter flaw!
 But soft! but soft! aside: here comes the king.
-Enter Priest, & c. in procession; the Corpse of OPHELIA,  and Mourners following; their trains, & c
+Enter Priest, & c. in procession; the Corpse of  , and Mourners following; their trains, & c
 
 The queen, the courtiers: who is this they follow?
 And with such maimed rites? This doth betoken
@@ -4866,7 +4866,7 @@ May violets spring! I tell thee, churlish priest,
 A ministering angel shall my sister be,
 When thou liest howling.
 
-What, the fair Ophelia!
+What, the fair  !
 
 Sweets to the sweet: farewell!
 Scattering flowers
@@ -4887,7 +4887,7 @@ Till of this flat a mountain you have made,
 To o'ertop old Pelion, or the skyish head
 Of blue Olympus.
 
-[Advancing] What is he whose grief
+ Advancing  What is he whose grief
 Bears such an emphasis? whose phrase of sorrow
 Conjures the wandering stars, and makes them stand
 Like wonder-wounded hearers? This is I,
@@ -4920,11 +4920,11 @@ Until my eyelids will no longer wag.
 
 O my son, what theme?
 
-I loved Ophelia: forty thousand brothers
+I loved  forty thousand brothers
 Could not, with all their quantity of love,
 Make up my sum. What wilt thou do for her?
 
-O, he is mad, .
+O, he is mad,
 
 For love of God, forbear him.
 
@@ -4969,7 +4969,7 @@ Exeunt
 
 SCENE II. A hall in the castle.
 
-Enter  and
+Enter and
 
 So much for this, sir: now shall you see the other;
 You do remember all the circumstance?
@@ -5043,7 +5043,7 @@ The changeling never known. Now, the next day
 Was our sea-fight; and what to this was sequent
 Thou know'st already.
 
-So Guildenstern and Rosencrantz go to't.
+So   and   go to't.
 
 Why, man, they did make love to this employment;
 They are not near my conscience; their defeat
@@ -5069,7 +5069,7 @@ What is the issue of the business there.
 It will be short: the interim is mine;
 And a man's life's no more than to say 'One.'
 But I am very sorry, good ,
-That to  I forgot myself;
+That to I forgot myself;
 For, by the image of my cause, I see
 The portraiture of his: I'll court his favours.
 But, sure, the bravery of his grief did put me
@@ -5117,7 +5117,7 @@ I beseech you, remember--
 
 OSRIC
 Nay, good my lord; for mine ease, in good faith.
-Sir, here is newly come to court ; believe
+Sir, here is newly come to court believe
 me, an absolute gentleman, full of most excellent
 differences, of very soft society and great showing:
 indeed, to speak feelingly of him, he is the card or
@@ -5157,7 +5157,7 @@ I know you are not ignorant--
 I would you did, sir; yet, in faith, if you did,
 it would not much approve me. Well, sir?
 OSRIC
-You are not ignorant of what excellence  is--
+You are not ignorant of what excellence is--
 
 I dare not confess that, lest I should compare with
 him in excellence; but, to know a man well, were to
@@ -5247,7 +5247,7 @@ The king and queen and all are coming down.
 In happy time.
 Lord
 The queen desires you to use some gentle
-entertainment to  before you fall to play.
+entertainment to before you fall to play.
 
 She well instructs me.
 Exit Lord
@@ -5279,7 +5279,7 @@ Enter Lords, OSRIC, and Attendants with foils, & c
 
 
 Come, come, and take this hand from me.
- puts ' hand into 's
+ puts hand into 's
 
 
 Give me your pardon, sir: I've done you wrong;
@@ -5289,10 +5289,10 @@ And you must needs have heard, how I am punish'd
 With sore distraction. What I have done,
 That might your nature, honour and exception
 Roughly awake, I here proclaim was madness.
-Was't  wrong'd ? Never :
-If  from himself be ta'en away,
+Was't wrong'd Never :
+If from himself be ta'en away,
 And when he's not himself does wrong ,
-Then  does it not,  denies it.
+Then does it not, denies it.
 Who does it, then? His madness: if't be so,
  is of the faction that is wrong'd;
 His madness is poor 's enemy.
@@ -5318,7 +5318,7 @@ Give us the foils. Come on.
 
 Come, one for me.
 
-I'll be your foil, : in mine ignorance
+I'll be your foil, in mine ignorance
 Your skill shall, like a star i' the darkest night,
 Stick fiery off indeed.
 
@@ -5344,7 +5344,7 @@ OSRIC
 Ay, my good lord.
 
 Set me the stoops of wine upon that table.
-If  give the first or second hit,
+If give the first or second hit,
 Or quit in answer of the third exchange,
 Let all the battlements their ordnance fire:
 The king shall drink to 's better breath;
@@ -5354,7 +5354,7 @@ In Denmark's crown have worn. Give me the cups;
 And let the kettle to the trumpet speak,
 The trumpet to the cannoneer without,
 The cannons to the heavens, the heavens to earth,
-'Now the king dunks to .' Come, begin:
+'Now the king dunks to ' Come, begin:
 And you, the judges, bear a wary eye.
 
 Come on, sir.
@@ -5390,7 +5390,7 @@ Our son shall win.
 
 He's fat, and scant of breath.
 Here, take my napkin, rub thy brows;
-The queen carouses to thy fortune, .
+The queen carouses to thy fortune,
 
 Good madam!
 
@@ -5398,7 +5398,7 @@ Gertrude, do not drink.
 
 I will, my lord; I pray you, pardon me.
 
-[Aside] It is the poison'd cup: it is too late.
+ Aside  It is the poison'd cup: it is too late.
 
 I dare not drink yet, madam; by and by.
 
@@ -5408,9 +5408,9 @@ My lord, I'll hit him now.
 
 I do not think't.
 
-[Aside] And yet 'tis almost 'gainst my conscience.
+ Aside  And yet 'tis almost 'gainst my conscience.
 
-Come, for the third, : you but dally;
+Come, for the third, you but dally;
 I pray you, pass with your best violence;
 I am afeard you make a wanton of me.
 
@@ -5421,7 +5421,7 @@ OSRIC
 Nothing, neither way.
 
 Have at you now!
- wounds ; then in scuffling, they change rapiers, and  wounds
+ wounds then in scuffling, they change rapiers, and wounds
 
 
 Part them; they are incensed.
@@ -5451,7 +5451,7 @@ Dies
 O villany! Ho! let the door be lock'd:
 Treachery! Seek it out.
 
-It is here, : thou art slain;
+It is here, thou art slain;
 No medicine in the world can do thee good;
 In thee there is not half an hour of life;
 The treacherous instrument is in thy hand,
@@ -5484,7 +5484,7 @@ Dies
 
 
 Heaven make thee free of it! I follow thee.
-I am dead, . Wretched queen, adieu!
+I am dead, Wretched queen, adieu!
 You that look pale and tremble at this chance,
 That are but mutes or audience to this act,
 Had I but time--as this fell sergeant, death,
@@ -5517,7 +5517,7 @@ O, I die, ;
 The potent poison quite o'er-crows my spirit:
 I cannot live to hear the news from England;
 But I do prophesy the election lights
-On : he has my dying voice;
+On he has my dying voice;
 So tell him, with the occurrents, more and less,
 Which have solicited. The rest is silence.
 Dies
@@ -5545,7 +5545,7 @@ The sight is dismal;
 And our affairs from England come too late:
 The ears are senseless that should give us hearing,
 To tell him his commandment is fulfill'd,
-That Rosencrantz and Guildenstern are dead:
+That   and   are dead:
 Where should we have our thanks?
 
 Not from his mouth,
