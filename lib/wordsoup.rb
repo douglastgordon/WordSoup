@@ -77,7 +77,7 @@ module Wordsoup
 
   class Shakespeare < Author
 
-    def initialize(file = "./hamlet.txt")
+    def initialize(file = File.join( File.dirname(__FILE__), './hamlet.txt'))
       super(file)
     end
 
