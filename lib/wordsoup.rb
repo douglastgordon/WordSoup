@@ -98,4 +98,9 @@ module Wordsoup
     end
 
   end
+
+  Shakespeare = Shakespeare.new
+  Hemingway = Hemingway.new
+  Bible = Bible.new
+
 end
