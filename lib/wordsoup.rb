@@ -1,8 +1,9 @@
 require "wordsoup/version"
 
 module Wordsoup
-  class Author
 
+  class Author
+    
     attr_accessor :sentences, :word_hash, :first_words, :last_words
 
     def initialize(file)
@@ -75,32 +76,8 @@ module Wordsoup
 
   end
 
-  class Shakespeare < Author
-
-    def initialize(file = File.join( File.dirname(__FILE__), './hamlet.txt'))
-      super(file)
-    end
-
-  end
-
-  class Hemingway < Author
-
-    def initialize(file = File.join( File.dirname(__FILE__), './omats.txt'))
-      super(file)
-    end
-
-  end
-
-  class Bible < Author
-
-    def initialize(file = File.join( File.dirname(__FILE__), './bible.txt'))
-      super(file)
-    end
-
-  end
-
-  Shakespeare = Shakespeare.new
-  Hemingway = Hemingway.new
-  Bible = Bible.new
+  Shakespeare = Author.new( File.join( File.dirname(__FILE__), './hamlet.txt'))
+  Hemingway = Author.new(File.join( File.dirname(__FILE__), './omats.txt'))
+  Bible = Author.new(File.join( File.dirname(__FILE__), './bible.txt'))
 
 end
