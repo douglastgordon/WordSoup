@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A jibberish generator in the style of popular authors.}
   spec.description   = %q{Generates sentences and paragraphs in the style of popular authors that have the syntax of English, but are totally jibberish. A better Lorem Ipsum! }
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/douglastgordon/WordSoup"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
