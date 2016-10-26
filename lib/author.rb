@@ -39,7 +39,6 @@ class Author
     sentence = [@first_words.sample.capitalize]
     word = ""
     until (sentence.length == 30)
-
       word = @word_hash[sentence.last].sample
       break if word.nil?
       word = fix_word(word)
@@ -73,6 +72,39 @@ class Author
   end
 
 end
+
+class Shakespeare < Author
+
+  def initialize(file = "hamlet.txt")
+    super(file)
+  end
+
+end
+
+class Hemingway < Author
+
+  def initialize(file = "omats.txt")
+    super(file)
+  end
+
+end
+
+class Hemingway < Author
+
+  def initialize(file = "omats.txt")
+    super(file)
+  end
+
+end
+class Bible < Author
+
+  def initialize(file = "bible.txt")
+    super(file)
+  end
+
+end
+
+
 
 $Shakespeare = Author.new('hamlet.txt')
 $Hemingway = Author.new('omats.txt')
