@@ -85,22 +85,15 @@ module Wordsoup
 
   class Hemingway < Author
 
-    def initialize(file = "omats.txt")
+    def initialize(file = File.join( File.dirname(__FILE__), './omats.txt'))
       super(file)
     end
 
   end
 
-  class Hemingway < Author
-
-    def initialize(file = "omats.txt")
-      super(file)
-    end
-
-  end
   class Bible < Author
 
-    def initialize(file = "bible.txt")
+    def initialize(file = File.join( File.dirname(__FILE__), './bible.txt'))
       super(file)
     end
 
