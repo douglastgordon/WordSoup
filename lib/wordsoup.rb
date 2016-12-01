@@ -3,7 +3,7 @@ require "wordsoup/version"
 module Wordsoup
 
   class Author
-    
+
     attr_accessor :sentences, :word_hash, :first_words, :last_words
 
     def initialize(file)
@@ -25,7 +25,7 @@ module Wordsoup
     end
 
 
-    def make_word_hash()
+    def make_word_hash
       @sentences.each do |sentence|
         sentence_array = sentence.split(" ")
         sentence_array.each_with_index do |word, i|
@@ -63,6 +63,10 @@ module Wordsoup
         paragraph << self.sentence
       end
       paragraph
+    end
+
+    def haiku
+
     end
 
     def fix_word(word)
