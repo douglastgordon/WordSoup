@@ -1,6 +1,6 @@
 # Wordsoup
 
-Wordsoup is a jibberish generator that you can use in place of Lorem Ipsum. It generates sentences and paragraphs with regular English syntax in the style of your favorite authors.
+Wordsoup is a gibberish generator that you can use in place of Lorem Ipsum. It generates sentences and paragraphs with regular English syntax in the style of your favorite authors.
 
 ## Installation
 
