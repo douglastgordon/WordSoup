@@ -31,6 +31,15 @@ module Wordsoup
       fix_ending(sentence)
     end
 
+    def paragraph
+      paragraph = ""
+      until paragraph.length > 250
+        paragraph << " "
+        paragraph << self.sentence
+      end
+      paragraph[1..-1]
+    end
+
     private
 
     def fix_capitalisation(word)
@@ -55,15 +64,6 @@ module Wordsoup
       end
       sentence
     end
-
-    # def paragraph
-    #   paragraph = ""
-    #   until paragraph.length > 250
-    #     paragraph << " "
-    #     paragraph << self.sentence
-    #   end
-    #   paragraph
-    # end
 
     # def haiku
     #   haiku = ""
